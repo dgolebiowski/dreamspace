@@ -1,0 +1,26 @@
+.counter {
+  font-size: 60px;
+  line-height: 60px;
+  font-weight: 700;
+  line-height: 70px;
+  margin: 10px 0px;
+  color: #fff;
+}
+
+.counter-stat h5 {
+  font-weight: 400;
+  text-transform: uppercase;
+  color: #fff;
+}
+
+.counter-block span {
+  font-size: 30px;
+}
+
+#counter {
+  background: url("../images/banner/bg-counter.jpg") fixed 50% 50%;
+  position: relative;
+  background-size: cover;
+  padding-top: 87px;
+  padding-bottom: 95px;
+}

@@ -1,0 +1,52 @@
+#footer {
+  padding-bottom: 60px;
+  position: relative;
+  background: url("../images/bg/2.png");
+  border-top: 1px solid #eee;
+}
+
+.footer-widget ul li {
+  padding: 5px 0px;
+}
+
+.footer-widget p {
+  margin-bottom: 5px;
+}
+
+.footer-widget h4 {
+  margin-bottom: 20px;
+}
+
+.footer-widget h4 span {
+  color: #710004;
+  display: block;
+  font-size: 60px;
+  line-height: 60px;
+}
+
+.footer-copy {
+  letter-spacing: 1px;
+  padding-top: 30px;
+  margin-top: 30px;
+  border-top: 1px solid #eee;
+}
+
+.footer-text h6 {
+  margin-bottom: 10px;
+}
+
+.footer-text p span {
+  color: #000;
+}
+
+.footer-text p.mail {
+  color: #710004;
+}
+
+.footer-widget a {
+  color: #999;
+}
+
+.footer-widget a:hover {
+  color: #6b1101;
+}

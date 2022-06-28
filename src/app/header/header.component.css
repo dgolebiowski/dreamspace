@@ -1,0 +1,50 @@
+.h-table {
+  width: 100%;
+}
+
+.h-table-cell {
+  vertical-align: middle;
+}
+
+.banner-area .content-padding {
+  padding: 370px 0px 180px;
+}
+
+.banner-content {
+  padding-right: 30px;
+}
+
+.banner-content .btn {
+  margin-top: 15px;
+  margin-right: 12px;
+}
+
+.banner-content .banner-title {
+  color: #fff;
+  font-weight: 700;
+  line-height: 50px;
+}
+
+.banner-content .subtitle {
+  color: #fff;
+  background: #710004;
+  display: inline-block;
+  padding: 3px 8px;
+  margin-bottom: 20px;
+  text-transform: uppercase;
+}
+
+.banner-content p {
+  margin: 20px 0px;
+  color: #eee;
+  font-size: 18px;
+  line-height: 30px;
+}
+
+.banner-bg {
+  background: url("../images/banner/bg-counter.jpg") 50% 50%;
+  background-size: cover;
+  position: relative;
+}
+
+
